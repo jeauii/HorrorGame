@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30ecd71e5e2056b4cbeaa78cdab4385e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - human: {instanceID: 0}
+  - ghost: {instanceID: 0}
+  - spotLight: {fileID: 6940969122694278177, guid: 16466b62b339586449e72425ecebdcc9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
